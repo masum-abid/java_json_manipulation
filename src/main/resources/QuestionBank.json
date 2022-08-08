@@ -1,0 +1,122 @@
+[
+  {
+    "Option a": "Breadth test and depth test",
+    "Option b": "Confirmation testing",
+    "question": "1) Which methodology is used to performed Maintenance testing?",
+    "answer": "a",
+    "Option c": "Retesting",
+    "Option d": "Sanity testing"
+  },
+  {
+    "Option a": "Test Case",
+    "Option b": "Requirements Traceability Matrix [RTM]",
+    "question": "2) Which of the following is not part of the Test document?",
+    "answer": "d",
+    "Option c": "Test strategy",
+    "Option d": "Project Initiation Note [PIN]"
+  },
+  {
+    "Option a": "Evaluating deliverable to find errors",
+    "Option b": "Finding broken code",
+    "question": "3) Which term is used to define testing?",
+    "answer": "a",
+    "Option c": "A stage of all projects",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Testing Phase",
+    "Option b": "Requirement Phase",
+    "question": "4) Which of the following is not a valid phase of SDLC (Software Development Life Cycle)?",
+    "answer": "d",
+    "Option c": "Deployment phase",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "Structural testing",
+    "Option b": "Error guessing technique",
+    "question": "5) Which of the following testing is also known as white-box testing?",
+    "answer": "a",
+    "Option c": "Design based testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "White box and black box testing",
+    "Option b": "White-box testing",
+    "question": "6) Which of the following testing is related to the boundary value analysis?",
+    "answer": "c",
+    "Option c": "Black box testing",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Test design technique",
+    "Option b": "Test level",
+    "question": "7) Functional testing is a ------?",
+    "answer": "d",
+    "Option c": "SDLC Model",
+    "Option d": "Test type"
+  },
+  {
+    "Option a": "Integration testing",
+    "Option b": "Unit testing",
+    "question": "8) What are the different levels of Testing?",
+    "answer": "d",
+    "Option c": "System testing",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "Testing Planning",
+    "Option b": "Requirement Gathering",
+    "question": "9) Which of the following is not a part of STLC (Software Testing Life Cycle)?",
+    "answer": "b",
+    "Option c": "Test Design",
+    "Option d": "Testing closure"
+  },
+  {
+    "Option a": "Test type",
+    "Option b": "Test Execution Level",
+    "question": "10) Sanity testing is a ------?",
+    "answer": "b",
+    "Option c": "Test Level",
+    "Option d": "Test design technique"
+  },
+  {
+    "Option a": "Statement coverage testing",
+    "Option b": "Decision coverage testing",
+    "question": "11) White box testing techniques are?",
+    "answer": "d",
+    "Option c": "Data flow testing",
+    "Option d": "All of the above"
+  },
+  {
+    "Option a": "User's end",
+    "Option b": "Developer's end",
+    "question": "12) In which environment we can performed the Alpha testing?",
+    "answer": "b",
+    "Option c": "User's and developer's end",
+    "Option d": "None of the above"
+  },
+  {
+    "Option a": "Schedule",
+    "Option b": "Risk",
+    "question": "13) Which of the below is not a part of the Test Plan?",
+    "answer": "c",
+    "Option c": "Incident reports",
+    "Option d": "Entry and exit criteria"
+  },
+  {
+    "Option a": "Design Errors",
+    "Option b": "Interface Errors",
+    "question": "14) What is the key objective of Integration testing?",
+    "answer": "b",
+    "Option c": "Procedure Errors",
+    "Option d": "None of the mentioned"
+  },
+  {
+    "Option a": "Experience-based Test Design Technique",
+    "Option b": "White Box Test Design Technique",
+    "question": "15) Exploratory testing is a -----?",
+    "answer": "a",
+    "Option c": "Black Box Test Design Technique",
+    "Option d": "Grey Box Test Design Technique"
+  }
+]
