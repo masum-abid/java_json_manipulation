@@ -9,6 +9,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Random;
 
@@ -30,13 +31,14 @@ public class quiz {
     private static void questionBank() throws IOException, ParseException {
         char ch;
         String fileName = "./src/main/resources/QuestionBank.json";
+        //noinspection ReassignedVariable
         do{
             JSONParser jsonParser = new JSONParser();
             Object obj = jsonParser.parse(new FileReader(fileName));
 
             Scanner sc = new Scanner(System.in);
             System.out.println("Please add a question: ");
-            JSONObject questionBank = new JSONObject();
+            HashMap<String, String> questionBank = new HashMap<>();
             questionBank.put("question", sc.nextLine());
 
             System.out.println("Enter the options: ");

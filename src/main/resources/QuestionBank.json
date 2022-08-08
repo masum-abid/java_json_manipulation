@@ -118,5 +118,29 @@
     "answer": "a",
     "Option c": "Black Box Test Design Technique",
     "Option d": "Grey Box Test Design Technique"
+  },
+  {
+    "Option a": "testans",
+    "Option b": "testans2",
+    "question": "test1",
+    "answer": "d",
+    "Option c": "testans3",
+    "Option d": "testans4"
+  },
+  {
+    "Option a": "rice",
+    "Option b": "chicken",
+    "question": "which food do you like",
+    "answer": "b",
+    "Option c": "mutton",
+    "Option d": "beef"
+  },
+  {
+    "Option a": "Defect Report",
+    "Option b": "Test Summary Report",
+    "question": "20) Which Test Document is used to define the Exit Criteria of Testing?",
+    "answer": "d",
+    "Option c": "Test Case",
+    "Option d": "Test Plan"
   }
 ]
